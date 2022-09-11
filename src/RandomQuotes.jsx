@@ -18,6 +18,7 @@ const RandomQuotes = () => {
   useEffect(() => {
     getQuote();
   }, []);
+
   
   return (
     <>
